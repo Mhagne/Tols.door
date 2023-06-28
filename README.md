@@ -1,7 +1,11 @@
 # Tols.door
 crack.gmali
 
-#
+## Build
+
+    cd Tols.door
+   chmod 777 main.py
+   python3 main.py
 
 How do you download it?
 #
