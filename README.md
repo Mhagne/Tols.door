@@ -2,6 +2,7 @@
 crack.gmali
 
 
+How do you download it?
 
 
 
