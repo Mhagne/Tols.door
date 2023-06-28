@@ -3,8 +3,13 @@ crack.gmali
 
 
 How do you download it?
-
-
+-------------------------------------------
+cd Desktop
+sudo git clone https://github.com/Mhagne/Tols.door
+cd Tols.door
+chmod 777 main.py
+python3 main.py
+-----------------------------------------
 
 ![Untitled 2](https://github.com/Mhagne/Tols.door/assets/106419285/e301c467-4d6a-47b3-b390-e0b49f7b15c0)
 
